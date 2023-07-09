@@ -259,7 +259,7 @@ a:hover {
 .portfoliocontainer {
     position: relative;
     column-count: 4;
-    padding: 10% 10% 0% 10%;
+    padding: 0% 5% 0% 5%;
 }
 
 .portfoliocontainer2 {
@@ -1471,7 +1471,7 @@ strong {
     width: 90%;
     margin-right: auto;
     margin-left: auto;
-    text-align: left;
+    text-align: center;
     font-family: 'Montserrat', sans-serif;
     font-size: 1.2em;
     font-weight: 300;
