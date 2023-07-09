@@ -1471,8 +1471,8 @@ strong {
 .sudimetext {
     width: auto;
     margin-top: 10px;
-    margin-right: 10%;
-    margin-left: 10%;
+    margin-right: auto;
+    margin-left: auto;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     font-size: 1.2em;
@@ -1540,9 +1540,9 @@ div.leftfooterab:hover p {
     }
     .sudimetext {
         margin-top: 10px;
-        margin-left: 10%;
-        margin-right: 10%;
-        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        width: auto;
         text-align: center;
         font-family: 'Montserrat', sans-serif;
     }
