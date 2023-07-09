@@ -1461,8 +1461,8 @@ strong {
 
 .sudimetitle h2 {
     font-weight: 200;
-    width: auto;
-    margin-top: auto;
+    width: auto%;
+    margin-top: 10px;
     margin-right: auto%;
     margin-left: auto;
     text-align: center;
@@ -1470,7 +1470,7 @@ strong {
 }
 .sudimetext {
     width: auto;
-    margin-top:auto;
+    margin-top: 10px
     margin-right: auto;
     margin-left: auto;
     text-align: center;
