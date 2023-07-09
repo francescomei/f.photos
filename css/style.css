@@ -1456,20 +1456,20 @@ strong {
 
 
 .sudime {
-    margin: 10%;
+    margin: auto;
 }
 
 .sudimetitle h2 {
     font-weight: 200;
-    width: 50%;
+    width: auto;
     margin-top: auto;
-    margin-right: 45%;
-    margin-left: 5%;
+    margin-right: auto%;
+    margin-left: auto;
     text-align: center;
     font-size: 2.5em;
 }
 .sudimetext {
-    width: 90%;
+    width: auto;
     margin-top:auto;
     margin-right: auto;
     margin-left: auto;
@@ -1534,14 +1534,14 @@ div.leftfooterab:hover p {
     }
 
     .sudimetitle h2 {
-        margin: 10%;
-        width: 100%;
+        margin: auto;
+        width: auto;
         text-align: center;
     }
     .sudimetext {
-        margin: 10%;
-        width: 100%;
-        text-align: left;
+        margin: auto;
+        width: auto;
+        text-align: center;
         font-family: 'Montserrat', sans-serif;
     }
     .sudime {
