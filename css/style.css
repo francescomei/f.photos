@@ -1456,7 +1456,7 @@ strong {
 
 
 .sudime {
-    margin: 10%;
+    margin-top: 20px;
 }
 
 .sudimetitle h2 {
@@ -1471,8 +1471,8 @@ strong {
 .sudimetext {
     width: auto;
     margin-top: 10px;
-    margin-right: auto;
-    margin-left: auto;
+    margin-right: 0%;
+    margin-left: 0%;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     font-size: 1.2em;
@@ -1539,9 +1539,9 @@ div.leftfooterab:hover p {
         text-align: center;
     }
     .sudimetext {
-        margin-top: 10px;
-        margin-left: auto;
-        margin-right: auto;
+        margin-top:20px;
+        margin-left: 0%;
+        margin-right: 0%;
         width: auto;
         text-align: center;
         font-family: 'Montserrat', sans-serif;
